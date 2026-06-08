@@ -8,7 +8,7 @@ The projects inception was in order to demonstrate modern data engineering pract
 
 This project was inspired by real-world market data systems used within capital markets environments where trade events are continuously generated, processed, validated, and distributed to downstream consumers.
 
-#Objectives
+# Objectives
 
 The following objectives of this project are the folllowing:
 
